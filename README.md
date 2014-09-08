@@ -14,10 +14,9 @@
 >
 > — Wikipedia
 
-A grid system inspired on [http://960.gs/] for Keynote app.
-
-You can download the keynote template file for 4:3 ratio here or for 16:9 ratio
-here.
+A grid system inspired on [960.gs](http://960.gs/) for Keynote app. You can
+download the keynote template file for 4:3 and 16:9 ratio
+[here](https://raw.githubusercontent.com/caiogondim/keynote-grid/master/grid-templates.zip).
 
 ## Preview
 
