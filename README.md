@@ -6,19 +6,18 @@
   align="right"
 />
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+> In graphic design, a grid is a structure made up of a series of intersecting
+> straight (vertical, horizontal, and angular) or curved guide lines used to
+> structure content. The grid serves as an armature on which a designer can
+> organize graphic elements (images, glyphs, paragraphs) in a rational, easy to
+> absorb manner.
+>
+> — Wikipedia
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A grid system inspired on [http://960.gs/] for Keynote app.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+You can download the keynote template file for 4:3 ratio here or for 16:9 ratio
+here.
 
 ## Preview
 
