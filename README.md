@@ -25,7 +25,7 @@ consequat.
 ### 4:3
 
 <img
-  src="https://raw.githubusercontent.com/caiogondim/keynote-grid/master/assets/preview/43.png"
+  src="https://raw.githubusercontent.com/caiogondim/keynote-grid/master/assets/preview/4-3.png"
 />
 
 ### 16:9
