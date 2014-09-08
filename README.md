@@ -6,9 +6,7 @@
   align="right"
 />
 
-> In graphic design, a grid is a structure made up of a series of intersecting
-> straight (vertical, horizontal, and angular) or curved guide lines used to
-> structure content. The grid serves as an armature on which a designer can
+> The grid serves as an armature on which a designer can
 > organize graphic elements (images, glyphs, paragraphs) in a rational, easy to
 > absorb manner.
 >
