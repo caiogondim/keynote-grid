@@ -1,11 +1,5 @@
 # Keynote Grid template
 
-<img
-  src="https://raw.githubusercontent.com/caiogondim/keynote-grid/master/assets/logo/logo.png"
-  width="256"
-  align="right"
-/>
-
 > The grid serves as an armature on which a designer can
 > organize graphic elements (images, glyphs, paragraphs) in a rational, easy to
 > absorb manner.
